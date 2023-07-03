@@ -4,6 +4,7 @@
 * Este repositorio contiene una aplicación back en Express (con un archivo llamado navbar.sql con la configuración de las tablas requeridas) y una aplicación Front en React.
 * Tanto el servidor Back, la base de datos y el Front deben configurarse por separado. 
 * Para poder obtener los resultados esperados, se deben ejecutar los 3 sistemas mencionados anteriormente.  
+* El sistema consiste en una aplicación en React, la cual permite ingresar nuevos títulos de menú y sus secciones asociadas, y nuevos estilos para el cambiar el color del background del menú y el color sus textos, utillizando formularios que se conectan a un servidor back y una base de datos de tipo postgres.   
 
 ## Backend de la Aplicación
 
