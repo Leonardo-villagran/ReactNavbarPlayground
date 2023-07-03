@@ -1,0 +1,34 @@
+body {
+  font-family: "News Cycle", sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+}
+nav {
+  background: #171a21;
+  padding: 15px;
+  text-align: left;
+}
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+}
+nav a:hover,
+.activeClassName {
+  font-weight: 500;
+}
+.mi-clase{
+  text-decoration: none;
+  margin: 0px 10px 0px 0px;
+}
+
+.active {
+  text-decoration: none;
+  margin: 0px 10px 0px 0px;
+  font-weight: 900;
+}
+.error-message {
+  background-color: #ff9999; /* Un tono de rojo menos suave */
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
